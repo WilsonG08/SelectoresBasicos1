@@ -1,0 +1,82 @@
+/* Selectores de CSS */
+
+/*
+
+*********** Combinadores ************
+
+Utiliza un selector agrupado para dar estilos a las clases parrafo - titulo1 - titulo2, los estilos son los siguientes:
+    * fondo de color teal 
+    * texto centrado 
+    * color de texto blanco*/
+
+    .margen{
+        border: 3px solid black;
+        margin: 5px;
+        padding: 5px;
+
+    }
+
+    .titulo1{
+        background-color: black;
+        color: yellow;
+        text-decoration: underline;
+        text-align: left;
+    }
+
+    .titulo2{
+        background-color: #018081;
+    }
+
+    .titulo3{
+        background-color: #018081;
+    }
+
+    .titulo4{
+        background-color: #018081;
+    }
+    
+    .parrafo{
+        background-color:#FFEFD3;
+        color: black;
+    }
+
+    p{
+        color: white;
+        text-align: center;
+    }
+
+    #parrafoNum1{
+       background-color: coral;
+       color: blue;
+       text-align: right;
+       width: 20;
+    }
+
+    .parrafoHola{
+        background-color: white;
+        color: black;
+    }
+
+
+    #titulo.titulo1.🍔{
+        background-color: black;
+        color: yellow;
+        text-align: left;
+        width: 30;
+        text-decoration: underline;
+    }
+
+    *{
+        background-color: #ddbcdb;
+        color: black;
+        text-align: center;
+        width: 25;
+    }
+
+
+
+
+
+
+
+
